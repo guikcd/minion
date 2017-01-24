@@ -95,7 +95,7 @@ plugins:
 Task Engine
 -----------
 
-Minion Backend and Minion Task Engine are synonym in this docuemtnation. 
+Minion Backend and Minion Task Engine are synonym in this documentation. 
 The Task Engine provides the core functionality for managing users, 
 groups, sites, scans, and results within the Minion platform. 
 Acting as a central hub, the Task Engine maintains a register of 
